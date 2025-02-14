@@ -9,7 +9,13 @@
 <h2 align="center">A passionate frontend developer from Sri Lanka</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=udithawijethunga&label=Profile%20views&color=0e75b6&style=flat" alt="udithawijethunga" /> </p>
+
 ---
+
+<table align="center">
+<tr border="none">
+<td width="60%" align="left">
+
 
 - 🔭 I’m an Undergraduate at **University of Peradeniya. Sri Lanka**
 
@@ -19,12 +25,41 @@
 
 - 📫 How to reach me **udithalakshan321@gmail.com**
 
+</td>
+<td width="40%" align="center">
+
+  <img align="center" alt="Coding" width="400" src="https://ezgif.com/save/ezgif-20836a9478b712.gif">
+
+  
+  </td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">My Statistics:</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=UdithaWijethunga&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=UdithaWijethunga&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=UdithaWijethunga&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
 --- 
 
 
 <h2 align="center"><b>Skills:</b></h2>
 <p align="center"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000" width="80" height="80"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=dwfuFrQfNSOo&format=png&color=000000" alt="photoshop" width="80" height="80"/> </a></p>
-
 
 
 ---
